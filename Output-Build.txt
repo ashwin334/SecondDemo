@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: SecondDemo, Configuration: Debug Any CPU ------
+1>  SecondDemo -> C:\Users\Aishwarya Patil\source\repos\SecondDemo\bin\Debug\SecondDemo.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
